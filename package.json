@@ -9,7 +9,7 @@
     "preview": "astro preview"
   },
   "devDependencies": {
-    "@astrojs/preact": "^3.5.0",
+    "@astrojs/preact": "^3.5.4",
     "@astrojs/sitemap": "^3.2.1",
     "@netlify/netlify-marketing-tokens": "^1.1.0",
     "astro": "^5.14.3"
